@@ -1,0 +1,9 @@
+kind: LocalConfig
+apiversion: odo.openshift.io/v1alpha1
+ComponentSettings:
+  Type: dotnet:2.1
+  SourceLocation: C:\Users\dschenck\src\github\donschenck\locationms
+  SourceType: local
+  Application: locationms-oahi
+  Project: default
+  Name: dotnet-vmfo
